@@ -1,0 +1,10 @@
+Typescript Docs
+https://www.typescriptlang.org/docs/
+
+
+Typescript with React
+https://www.youtube.com/watch?v=Z5iWr6Srsj8
+
+
+Typescript with Redux
+https://www.youtube.com/watch?v=dZZxegovK9Q
