@@ -8,3 +8,7 @@ https://www.youtube.com/watch?v=Z5iWr6Srsj8
 
 Typescript with Redux
 https://www.youtube.com/watch?v=dZZxegovK9Q
+
+
+Understanding tsconfig
+https://www.youtube.com/watch?v=dPgAXFcFHCM
